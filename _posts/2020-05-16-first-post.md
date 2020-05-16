@@ -3,7 +3,7 @@ title: "github.io 블로그 시작하기"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
-  - Blog
+  - 일상 
 tags:
   - Blog
 last_modified_at: 2020-05-16T08:06:00-05:00
