@@ -7,11 +7,18 @@ categories:
 tags:
   - Blog
 last_modified_at: 2020-05-16T08:06:00-05:00
+
+toc: true
+toc_sticky: true
+toc_label: "페이지 주요 목차"
 ---
 
+## 블로그 시작하기1
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.
 
+
+## 블로그 시작하기2
 Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
 다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
 
