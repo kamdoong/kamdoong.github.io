@@ -11,6 +11,7 @@ last_modified_at: 2020-05-16T08:06:00-05:00
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+use_math: true
 published: true
 ---
 
