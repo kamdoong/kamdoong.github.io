@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
 use_math: true
-published: true
+published: false
 ---
 
 ## 블로그 시작하기1
@@ -36,7 +36,7 @@ $y=x$
 
 testffsfs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODk1MzY0LC0xMjM1NjU0NDQwLDg2Mz
-gzMTIwMSwtNDY0MDEwODU0LDQ1NjE2MDcyMywxNjc0MzQ4NzIz
-LDg0MTA3MDZdfQ==
+eyJoaXN0b3J5IjpbLTY0NjQ0NjE2MywxNjI4OTUzNjQsLTEyMz
+U2NTQ0NDAsODYzODMxMjAxLC00NjQwMTA4NTQsNDU2MTYwNzIz
+LDE2NzQzNDg3MjMsODQxMDcwNl19
 -->
