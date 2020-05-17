@@ -31,9 +31,9 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 $y^2$
 $y=x$
 
-![enter image description here](https://kamdoong.github.io/assets/images/%EB%B0%94%EB%8B%A4%EC%9D%B4%EB%B6%88.png)
+![enter image description here](https://kr.theepochtimes.com/assets/uploads/2019/10/71641909_10157739441869266_6310265843632570368_n-795x436.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODI4NTE0OCw4NjM4MzEyMDEsLTQ2ND
-AxMDg1NCw0NTYxNjA3MjMsMTY3NDM0ODcyMyw4NDEwNzA2XX0=
+eyJoaXN0b3J5IjpbLTEyMzU2NTQ0NDAsODYzODMxMjAxLC00Nj
+QwMTA4NTQsNDU2MTYwNzIzLDE2NzQzNDg3MjMsODQxMDcwNl19
 
 -->
