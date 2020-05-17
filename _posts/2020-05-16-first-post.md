@@ -32,8 +32,11 @@ $y^2$
 $y=x$
 
 ![enter image description here](https://kr.theepochtimes.com/assets/uploads/2019/10/71641909_10157739441869266_6310265843632570368_n-795x436.jpg)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU2NTQ0NDAsODYzODMxMjAxLC00Nj
-QwMTA4NTQsNDU2MTYwNzIzLDE2NzQzNDg3MjMsODQxMDcwNl19
 
+
+testffsfs
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyODk1MzY0LC0xMjM1NjU0NDQwLDg2Mz
+gzMTIwMSwtNDY0MDEwODU0LDQ1NjE2MDcyMywxNjc0MzQ4NzIz
+LDg0MTA3MDZdfQ==
 -->
