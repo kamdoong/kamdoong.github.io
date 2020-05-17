@@ -30,7 +30,8 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 
 $y^2$
 $y=x$![a](https://www.google.com/imgres?imgurl=https%3A%2F%2Fresources.jetbrains.com%2Fhelp%2Fimg%2Fidea%2F2020.1%2Fpy_markdown_support_example.png&imgrefurl=https%3A%2F%2Fwww.jetbrains.com%2Fhelp%2Fpycharm%2Fmarkdown.html&tbnid=0PTNiBXeiGCBwM&vet=12ahUKEwjv_ICq2rnpAhXZAqYKHSzHCdcQMygAegUIARDQAQ..i&docid=OZHpnG-dxpJ4AM&w=1834&h=692&q=pycharm%20markdown&ved=2ahUKEwjv_ICq2rnpAhXZAqYKHSzHCdcQMygAegUIARDQAQ)
-
+![enter image description here](https://drive.google.com/open?id=0B0ylyHcminsNdU4zQy0wNVZXVUozMFg0aG12Y05CaFFQUi00)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDM0ODcyMyw4NDEwNzA2XX0=
+eyJoaXN0b3J5IjpbNDU2MTYwNzIzLDE2NzQzNDg3MjMsODQxMD
+cwNl19
 -->
