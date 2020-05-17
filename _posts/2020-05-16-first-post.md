@@ -29,9 +29,9 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
 
 $y^2$
-$y=x$![a](https://www.google.com/imgres?imgurl=https%3A%2F%2Fresources.jetbrains.com%2Fhelp%2Fimg%2Fidea%2F2020.1%2Fpy_markdown_support_example.png&imgrefurl=https%3A%2F%2Fwww.jetbrains.com%2Fhelp%2Fpycharm%2Fmarkdown.html&tbnid=0PTNiBXeiGCBwM&vet=12ahUKEwjv_ICq2rnpAhXZAqYKHSzHCdcQMygAegUIARDQAQ..i&docid=OZHpnG-dxpJ4AM&w=1834&h=692&q=pycharm%20markdown&ved=2ahUKEwjv_ICq2rnpAhXZAqYKHSzHCdcQMygAegUIARDQAQ)
-![enter image description here](https://drive.google.com/open?id=0B0ylyHcminsNdU4zQy0wNVZXVUozMFg0aG12Y05CaFFQUi00)
+$y=x$![a](https://www.google.com/imgres?imgurl=[https://kr.theepochtimes.com/%EB%84%88%EB%AC%B4%EB%84%88%EB%AC%B4-%EC%A1%B0%EA%B7%B8%EB%A7%88%ED%95%B4%EC%84%9C-%EA%BD%83-%EC%86%8D%EC%97%90%EC%84%9C-%EC%9E%A0%EC%9D%B4-%EB%93%9C%EB%8A%94-%EC%95%BC%EC%83%9D-%EB%A9%A7%EB%B0%AD_500007.html](https://kr.theepochtimes.com/%EB%84%88%EB%AC%B4%EB%84%88%EB%AC%B4-%EC%A1%B0%EA%B7%B8%EB%A7%88%ED%95%B4%EC%84%9C-%EA%BD%83-%EC%86%8D%EC%97%90%EC%84%9C-%EC%9E%A0%EC%9D%B4-%EB%93%9C%EB%8A%94-%EC%95%BC%EC%83%9D-%EB%A9%A7%EB%B0%AD_500007.html))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MTYwNzIzLDE2NzQzNDg3MjMsODQxMD
-cwNl19
+eyJoaXN0b3J5IjpbLTQ2NDAxMDg1NCw0NTYxNjA3MjMsMTY3ND
+M0ODcyMyw4NDEwNzA2XX0=
 -->
