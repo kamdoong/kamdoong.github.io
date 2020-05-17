@@ -30,9 +30,10 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 
 $y^2$
 $y=x$
-![a](assets/images/바다이불.png)
+![a](../../assets/images/바다이불.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzODMxMjAxLC00NjQwMTA4NTQsNDU2MT
-YwNzIzLDE2NzQzNDg3MjMsODQxMDcwNl19
+eyJoaXN0b3J5IjpbMTUyOTUwNDgzMyw4NjM4MzEyMDEsLTQ2ND
+AxMDg1NCw0NTYxNjA3MjMsMTY3NDM0ODcyMyw4NDEwNzA2XX0=
+
 -->
